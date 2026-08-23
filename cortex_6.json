@@ -1,0 +1,15 @@
+{
+  "name": "quantum-kernel-9204",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 5524,
+    "createdAt": "2026-08-23T16:24:38.138Z"
+  }
+}
